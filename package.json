@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/KonPay08/typescript-for-javascript-developers1#readme",
   "devDependencies": {
+    "ts-node": "^8.6.2",
     "typescript": "^3.7.5"
   }
 }
